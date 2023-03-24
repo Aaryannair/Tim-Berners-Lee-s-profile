@@ -1,0 +1,56 @@
+.profile{
+    border-radius: 50%;
+    width: 175px;
+    height:300px;
+}
+body{
+    text-align: center;
+}
+
+.line{
+    width: 100px;
+    height: 10px;
+    background-color: black;
+    margin: 10px auto;
+
+}
+
+#welcome{
+    background: linear-gradient(to right,rgb(255, 0, 0) 0%, rgb(255, 166, 0) 50%, rgb(255, 234, 72) 100%) ;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 30px auto;
+
+}
+
+#bio{
+    background: linear-gradient(to right, rgb(35, 122, 3) 0%, rgb(62, 233, 43) 50%,rgb(30, 69, 227) 100%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: 30px auto;
+
+}
+
+.menu{
+    list-style: none;
+    position: absolute;
+}
+
+.links{
+float:left;
+font-size: 20px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+color:rgb(12, 12, 12);
+font-style: bold;
+background-color: rgb(255, 255, 255);
+margin-right: 5px;
+}
+
+
+#name{
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
